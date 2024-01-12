@@ -1,4 +1,3 @@
-# slider_usingprovider
 
 Made an App to implement and learn State Mangement using Provider
 
