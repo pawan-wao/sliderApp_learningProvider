@@ -1,16 +1,10 @@
 # slider_usingprovider
 
-making a slider app by implementing Provider state mangement
+Made an App to implement and learn State Mangement using Provider
 
-## Getting Started
+## App Preview
+![slidingSlider-ezgif com-resize](https://github.com/pawan-wao/sliderApp_learningProvider/assets/119276655/73e42ffb-a53a-403d-bb49-c0ea75a9c99c)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feedback
+If you have any feedback, please reach out to me at waonicegood@gmail.com
